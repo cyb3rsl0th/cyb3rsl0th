@@ -7,4 +7,4 @@
 
 [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rsl0th&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-                                      QWRkIG1lIG9uIFRyeSBIYWNrIE1lLCBUaGUgdXNlcm5hbWU/IFdlbGwgc2FtZSBhcyBvbiBnaXRodWIu
+                                    QWRkIG1lIG9uIFRyeSBIYWNrIE1lLCBUaGUgdXNlcm5hbWU/IFdlbGwgc2FtZSBhcyBvbiBnaXRodWIu
