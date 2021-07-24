@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning Binary Exploitation
 - ⚡ Fun fact: “The more you know, the more you know you don't know.”
 
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rsl0th&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+     [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rsl0th&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
                                   QWRkIG1lIG9uIFRyeSBIYWNrIE1lLCBUaGUgdXNlcm5hbWU/IFdlbGwgc2FtZSBhcyBvbiBnaXRodWIu
