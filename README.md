@@ -4,7 +4,7 @@ backup because Im lazy
 - 🌱 I’m currently learning Binary Exploitation
 - ⚡ Fun fact: “The more you know, the more you know you don't know.”
 -->
-## Hi there 👋
+## Hey 👋
     h1mzy0t1@kali:~$ cd myprofile
     h1mzy0t1@kali:~/myprofile$ ls
     skills.txt fun_fact.txt
