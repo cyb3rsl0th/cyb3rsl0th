@@ -5,21 +5,21 @@ backup because Im lazy
 - ⚡ Fun fact: “The more you know, the more you know you don't know.”
 -->
 ## Hey 👋
-    h1mzy0t1@kali:~$ cd myprofile
-    h1mzy0t1@kali:~/myprofile$ ls
+    cyb3rsl0th@kali:~$ cd myprofile
+    cyb3rsl0th@kali:~/myprofile$ ls
     skills.txt fun_fact.txt
     
-    h1mzy0t1@kali:~/myprofile$ cat skills.txt
+    cyb3rsl0th@kali:~/myprofile$ cat skills.txt
     Linux
     C/C++
     Python
     OSINT
     Steganography
     
-    h1mzy0t1@kali:~/myprofile$ cat fun_fact.txt
+    cyb3rsl0th@kali:~/myprofile$ cat fun_fact.txt
     “The more you know, the more you know you don't know.”
     
-    h1mzy0t1@kali:~/myprofile$
+    cyb3rsl0th@kali:~/myprofile$
     
     
        
